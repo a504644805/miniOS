@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/xy/myLinux/bochs2.6/MY_SYS/kernel",
+                "/home/xy/myLinux/bochs2.6/MY_SYS/kernel/include",
+                "/home/xy/myLinux/bochs2.6/MY_SYS/kernel/lib",
+                "/home/xy/myLinux/bochs2.6/MY_SYS/kernel/dev",
+                "/home/xy/myLinux/bochs2.6/MY_SYS/kernel/fs",
+                "/home/xy/myLinux/bochs2.6/MY_SYS/kernel/user_prog"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}

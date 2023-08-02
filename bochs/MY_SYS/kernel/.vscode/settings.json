@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "debug.h": "c",
+        "print.h": "c",
+        "string.h": "c",
+        "global.h": "c",
+        "interrupt.h": "c",
+        "thread.h": "c",
+        "*.inc": "c",
+        "keyboard.h": "c",
+        "io.h": "c",
+        "memory.h": "c",
+        "syscall.h": "c",
+        "list.h": "c",
+        "lock.h": "c",
+        "ata.h": "c",
+        "fs.h": "c",
+        "stdio.h": "c",
+        "bitmap.h": "c",
+        "minicrt.h": "c",
+        "pipe.h": "c"
+    }
+}
